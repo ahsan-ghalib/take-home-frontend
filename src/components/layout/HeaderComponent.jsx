@@ -22,7 +22,7 @@ const HeaderComponent = () => {
         <section>
             <header>
                 <div>
-                    <img src={navButton} alt={'nav-button'}/> 
+                    <img src={navButton} alt={'nav-button'}/>
                 </div>
                 <div className={'header-logo'}>
                     <Link to={'/'}>
